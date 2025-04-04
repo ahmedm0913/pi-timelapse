@@ -9,11 +9,12 @@
 ```bash
 sudo apt install python3-picamera2 ffmpeg python3-opencv
 pip3 install -r requirements.txt
-
+```
 ## Usage
 ```bash
 python3 timelapse.py
-
+```
+---
 ## Project Structure
 Timelapse/
 |--'Folders with Images and Video'
@@ -25,6 +26,6 @@ Timelapse/
 - If camera isn't detected:
 ```bash
 sudo raspi-config 	#Enable Camera under Interface options
-
+```
 ---
 
