@@ -1,4 +1,4 @@
-# Raspberry Pi Timrlapse Camera Project
+# Raspberry Pi Timelapse Camera Project
 
 ## Features
 - Automated timelapse capture
