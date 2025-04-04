@@ -15,13 +15,6 @@ pip3 install -r requirements.txt
 python3 timelapse.py
 ```
 ---
-## Project Structure
-Timelapse/
-|--'Folders with Images and Video'
-|--timelapse.py		# Main Script
-|--requirements.txt	# Dependancies	
-|--README.md
-
 ##Troubleshooting
 - If camera isn't detected:
 ```bash
